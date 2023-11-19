@@ -53,6 +53,8 @@ The machine learning model is trained using state-of-the-art algorithms on the p
 2. Run the training script:
    python train.py
 3. The trained model will be saved for later use in the application.
+   ![3D-Mammogram-copy](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/dd1028ed-be5f-4c9c-9ceb-79b2b20fc811)
+
   # Evaluation
 Evaluate the model's performance using the evaluation script:
 python evaluate.py
