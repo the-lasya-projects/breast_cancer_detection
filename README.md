@@ -64,7 +64,7 @@ This project is licensed under the MIT License.
 Contact
 For any inquiries or support, please contact Lasya  at lasyaroyal44@gmail.com.
 
-Feel free to customize the content based on the specific details of the project. Additionally, make sure to replace placeholders like [provide_model_name], link-to-dataset, and [project maintainer's name] with the actual information.
+
 
 
 
