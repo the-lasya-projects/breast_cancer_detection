@@ -4,6 +4,8 @@
 ## Overview
 
 This project aims to develop a robust breast cancer detection system using Artificial Intelligence (AI) and Machine Learning (ML) techniques. Early detection of breast cancer plays a crucial role in improving patient outcomes, and the integration of advanced technologies can enhance the accuracy and efficiency of the diagnostic process.
+![breast _cancer_detection](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/79e48949-6039-4491-a499-f63446b35c95)
+
 
 ## Table of Contents
 
