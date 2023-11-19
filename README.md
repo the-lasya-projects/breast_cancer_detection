@@ -61,6 +61,8 @@ python evaluate.py
 This script assesses the accuracy, precision, recall, and F1 score of the trained model on a validation dataset.
 # Results
 Document any significant results or findings obtained from the breast cancer detection system. Include metrics, visualizations, and comparisons with existing methods if applicable.
+![OIP](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/8b889014-9b25-4db3-8682-f8320417212a)
+
 # Contributing
 Contributions to the project are welcome! If you find issues or have suggestions, please open a GitHub issue or submit a pull request.
  # License
