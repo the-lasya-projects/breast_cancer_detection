@@ -63,12 +63,6 @@ Contributions to the project are welcome! If you find issues or have suggestions
 This project is licensed under the MIT License.
 Contact
 For any inquiries or support, please contact Lasya  at lasyaroyal44@gmail.com.
-
-
-
-
-
-
 Make sure to adjust any details or instructions based on the specifics of the project, and update the placeholders such as the GitHub repository link, file names, and project details accordingly.
 
 
