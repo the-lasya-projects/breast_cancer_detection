@@ -4,7 +4,6 @@
 ## Overview
 
 This project aims to develop a robust breast cancer detection system using Artificial Intelligence (AI) and Machine Learning (ML) techniques. Early detection of breast cancer plays a crucial role in improving patient outcomes, and the integration of advanced technologies can enhance the accuracy and efficiency of the diagnostic process.
-![breast _cancer_detection](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/79e48949-6039-4491-a499-f63446b35c95)
 
 
 ## Table of Contents
@@ -53,7 +52,7 @@ The machine learning model is trained using state-of-the-art algorithms on the p
 2. Run the training script:
    python train.py
 3. The trained model will be saved for later use in the application.
-   ![3D-Mammogram-copy](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/dd1028ed-be5f-4c9c-9ceb-79b2b20fc811)
+   
 
   # Evaluation
 Evaluate the model's performance using the evaluation script:
@@ -61,7 +60,7 @@ python evaluate.py
 This script assesses the accuracy, precision, recall, and F1 score of the trained model on a validation dataset.
 # Results
 Document any significant results or findings obtained from the breast cancer detection system. Include metrics, visualizations, and comparisons with existing methods if applicable.
-![OIP](https://github.com/the-lasya-projects/breast_cancer_detection/assets/142709321/8b889014-9b25-4db3-8682-f8320417212a)
+
 
 # Contributing
 Contributions to the project are welcome! If you find issues or have suggestions, please open a GitHub issue or submit a pull request.
